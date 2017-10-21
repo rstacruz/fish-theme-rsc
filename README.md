@@ -9,7 +9,7 @@
 With [Fisherman]:
 
 ```sh
-fisher rstacruz/fish-rscprompt
+fisher rstacruz/fish-theme-rsc
 ```
 
 [Fisherman]: https://github.com/fisherman/fisherman
