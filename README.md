@@ -2,6 +2,8 @@
 
 > Minimal prompt for Fish
 
+![image](https://user-images.githubusercontent.com/74385/31855005-7b7aeb40-b6d4-11e7-9401-83283d0a29ba.png)
+
 ## Install
 
 With [Fisherman]:
