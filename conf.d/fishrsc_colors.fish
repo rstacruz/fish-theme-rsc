@@ -31,5 +31,5 @@ set __fish_git_prompt_char_upstream_behind ' -'
 set __fish_git_prompt_char_upstream_diverged ' ↔'
 
 set rsc_color1 blue
-set rsc_color3 black
+set rsc_color3 236
 set rsc_color4 red
