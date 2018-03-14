@@ -10,8 +10,7 @@ function fish_prompt --description 'Prompt'
 
   # -- glyph
   set_color $rsc_color3
-  echo -n ' 〉'
+  echo -n ' › '
 
   set_color normal
 end
-
