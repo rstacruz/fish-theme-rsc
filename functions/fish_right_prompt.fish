@@ -3,6 +3,6 @@ function fish_right_prompt -d "Write out the right prompt"
 
   if not test $last_status -eq 0
     set_color $fish_color_error
-    echo -n " ✗ $last_status "
+    echo -n " ✗ $last_status"
   end
 end
